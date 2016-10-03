@@ -18,7 +18,7 @@ str(dat_subset)
 
 head(dat_subset); tail(dat_subset)
 
-# Converting character xlab = "Global Active Power (kilowatts)"strings to dates and times
+# Converting character strings to dates and times
 
 library(lubridate)
 
